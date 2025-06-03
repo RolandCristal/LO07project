@@ -1,0 +1,81 @@
+h1 {
+    color: navy;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: red;
+}
+
+a:visited {
+    color: orange;
+}
+
+a:hover {
+    background-color: greenyellow;
+}
+
+ol {
+    color: chocolate;
+}
+
+.cs {
+    color: crimson;
+}
+
+.tm {
+    color: blueviolet;
+}
+
+li {
+    color: cornflowerblue;
+}
+
+#nom {
+    text-decoration: underline;
+}
+
+ol li {
+    list-style-type: lower-greek;
+}
+
+.gras {
+    color: dodgerblue;
+    font-weight: bold;
+}
+
+#matiere {
+    background-color: salmon;
+    display: block;
+}
+
+#competences-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    text-align: center;
+}
+
+#competences-table th, 
+#competences-table td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+#competences-table th {
+    color: blue;
+    font-weight: bold;
+    background-color: white;
+}
+
+#competences-table td {
+    background-color: bisque;
+}
+
+#competences-table td:first-child {
+    color: blue;
+    font-weight: bold;
+    background-color: white;
+}
