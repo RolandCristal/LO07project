@@ -2,7 +2,7 @@
 
 // biliotheque fonctions formulaire avec bootstrap
 // --------------------------------------------------
-// form_begin
+// form_beginx
 // --------------------------------------------------
 
 function form_begin($class, $method, $action) {
